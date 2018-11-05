@@ -105,8 +105,11 @@
         <div class="content">
             <h4 class="motto">Caminamos a tu lado para crear un futuro mejor.</h4>
             <p class="text-center text-white">
-                En NOAL estamos desarrollando una herramienta que te abrirá las puertas del futuro financiero.<br>
-                Rápido, seguro, al alcance de todos y fácil de usar. Una iniciativa solo pensada en vos.
+                En NOAL estamos desarrolando una app  que te permitir[a tener mayor control de tu situación financiera.<br>
+                Rápido, seguro, al alcance de todos, fácil de usar e inclusivo.<br>
+                En NOAL creemos que construyendo mejores e inteligentes productos para todos,
+                podemos aportar a que puedas crear positivos y sostenidos hábitos financieros.<br>
+                Una iniciativa solo pensada en ti.
             </p>
             <div class="subscribe">
                 <h5 class="info-text">
@@ -138,7 +141,8 @@
     </div>
     <div class="footer">
         <div class="container">
-            Dardo Gimenez. Teléfono: +18587059455.
+            info@noal.us
+            {{--Dardo Gimenez. Teléfono: +18587059455.--}}
         </div>
     </div>
 </div>
