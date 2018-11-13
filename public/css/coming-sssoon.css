@@ -801,6 +801,12 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     color: #FF3B30;
 }
 
+.mx-auto {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+}
+
 @media (min-width:219px){        
     .main .subscribe .form-group{
         width: auto;

@@ -85,21 +85,22 @@
     </div><!-- /.container -->
 </nav>
 
-<div class="main" style="background-image: url('{{ asset('images/video_bg.jpg') }}')">
-    <video id="video_background" preload="auto" autoplay="true" loop="loop" muted="muted" volume="0">
-        <source src="{{ asset('video/time.webm') }}" type="video/webm">
-        <source src="{{ asset('video/time.mp4') }}" type="video/mp4">
-        Video not supported
-    </video>
+<div class="main" style="background-image: url('{{ asset('images/bg.png') }}')">
+    {{--<video id="video_background" preload="auto" autoplay="true" loop="loop" muted="muted" volume="0">--}}
+        {{--<source src="{{ asset('video/time.webm') }}" type="video/webm">--}}
+        {{--<source src="{{ asset('video/time.mp4') }}" type="video/mp4">--}}
+        {{--Video not supported--}}
+    {{--</video>--}}
     {{-- Change the image source '/images/video_bg.jpg')" with your favourite image --}}
 
     <div class="cover black" data-color="black"></div>
     {{--   You can change the black color for the filter with those colors: blue, green, red, orange --}}
 
     <div class="container">
-        <h1 class="logo cursive">
-            NOAL
-        </h1>
+        <img src="{{ asset('images/noal-transparent.png') }}" alt="NOAL" class="logo mx-auto" height="100">
+        {{--<h1 class="logo cursive">--}}
+            {{--NOAL--}}
+        {{--</h1>--}}
         {{--  H1 can have 2 designs: "logo" and "logo cursive" --}}
 
         <div class="content">
