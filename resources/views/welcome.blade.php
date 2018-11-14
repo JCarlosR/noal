@@ -97,7 +97,7 @@
     {{--   You can change the black color for the filter with those colors: blue, green, red, orange --}}
 
     <div class="container">
-        <img src="{{ asset('images/noal-transparent.png') }}" alt="NOAL" class="logo mx-auto" height="100">
+        <img src="{{ asset('images/logo-noal.png') }}" alt="NOAL" class="logo mx-auto" height="100">
         {{--<h1 class="logo cursive">--}}
             {{--NOAL--}}
         {{--</h1>--}}
